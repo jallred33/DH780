@@ -18,7 +18,6 @@ Hypothes.is group: [https://hypothes.is/groups/BvvYVX6B/dh780fa23](https://hypot
 
 *Play* is notoriously hard to pin down, especially from our twenty-first-century vantage point. Is it *work’s* opposite and antagonist, distracting us from the serious business of building up ourselves and our society and economy? Or is it itself a multi-billion dollar industry that is central to “social reproduction,” a fundamental component of “subject formation” that is baked into ideas of psychological development and pedagogy, and a foundational aspect of our psyches that fuels our capacity for growth and creativity? This course will explore these questions through a combination of theoretical texts (Huizinga, Callois, Sutton-Smith, Barthes, Bogost), literary texts  and movements (OULIPO, Dada, Carroll, Borges, Cortazar, Nabokov), and games (RPGs like Dungeons and Dragons, branched narratives like *Adventure* and *Choose You Own Adventure*, and/or interventionist games that glitch or interrupt expectations). To the extent possible, we will integrate play into the very structure of the course, exploring the tacit values and narratives inherent in “taking” a “course” (the language implies a single path on a “take it or leave it” basis) and experimenting with “making” something that affords multiple pathways and choices. 
 
-**Requirements**: lots of reading and writing, enthusiastic participation, a risk-taking spirit, and a willingness to take a class whose requirements are not spelled out up front.
 ## Learning Outcomes
 
 By the end of the semester, students will
@@ -28,6 +27,7 @@ By the end of the semester, students will
 - play with game-like modes of adaptation, glitching, deformance, and related practices aimed at remediating extant texts or producing new ones
 - ruminate on the educational enterprise, wondering whether its received disciplinary structure can accomodate the subversive and ludic spirit of play in all its forms
 - begin to scratch their collective head at the very notion of "learning outcomes," which seems to presupposed a static "content" that evinces a certain "throughput," eventuating in measureable "outcomes," rather than a contingent, idiopathic *process* that each student navigates for themselves to their own ends
+- wonder at the strange grammar of "learning outcomes," which issue from a living, breathing human yet are written in a dry third-person mode of address that obscures their origin and makes them appear like the Commandments dropped on Moses or pronouncements from behind the Wizard's curtain
 
 ## **Responsibilities:** 
 
