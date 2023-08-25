@@ -8,8 +8,8 @@
 ## 9/11 What is Play? A brief intro to “play theory”
 ### readings/in class   
 * Ian Bogost, from *Play Anything* (2016), ch1
-* Johan Huizinga, from *Homo Ludens* (1938), pages 96-107
-* Roger Caillois, from *Man, Play, and Games* (1958), pages 122-148
+* Johan Huizinga, from *Homo Ludens* (1938)
+* Roger Caillois, from *Man, Play, and Games* (1958)
 * Choose a public-domain text to render “playable” for the Group Project
 
 ### work due
@@ -32,7 +32,7 @@
  
 ## 10/2   Magical Play: play as (re)enchantment
 ### readings/in class:
-* * Murray, *Hamlet on the Holodeck*
+* Murray, from *Hamlet on the Holodeck*
 * examples:
 	* [The River Poem](https://dashboards.maynoothuniversity.ie/portfolios/the-river-poem/)
 	* Katherine Norman, [Window](https://collection.eliterature.org/3/work.html?work=window) and [Listening in Place - Window](https://www.novamara.com/window/desktop.html)
@@ -147,11 +147,9 @@
 ## 12/11   Wrapping up
 ### work due:
 * Wrap-up and reflection
-* **Brief presentations (3 mins)** on final projects                                                                                                       * **Final projects due** on 12/18   
+* **Brief presentations (3 mins)** on final projects
+* **Final projects due** on 12/18   
 
-
-* Sample, “[Play”](https://digitalpedagogy.mla.hcommons.org/keywords/play/)
-* * explore Zotero (zotero.org) via [this efficient overview](https://www.youtube.com/watch?v=Iq7V2X5x2Pk) and [this quick introduction of collaboration with group libraries](https://www.zotero.org/groups/)
 
                                                                                                                                                        
 
