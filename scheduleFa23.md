@@ -2,7 +2,7 @@
 (readings either have links to open resources or the GC library proxy, or they have a [C] label, which means they’re in the Library section of [our Commons Group](https://commons.gc.cuny.edu/groups/dh-780-fa23) in .pdf.
 
 ## 8/28    Introduction, requirements, assignments 
-* Hypothes.is and Commons onboarding
+* Commons onboarding
 * introductions of each other and course material: to the former, introduce yourself via [Padlet](https://huntercollege68.padlet.org/jallred/dh-780-introduction-games-people-play-eju0g92tcgz67v2h) if you feel moved!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
          
 ## 9/11 What is Play? A brief intro to “play theory”
