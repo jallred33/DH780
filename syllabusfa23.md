@@ -2,7 +2,7 @@
 
 Instructor: Jeff Allred<br>
 Class Meetings: Mon 6:30-8:30<br> 
-Office Hours: M/Th 1-2pm at Hunter College (HW 1205) and by appointment [phone or Zoom is fine]<br>
+Office Hours: M/Th 11:30-12:30pm at Hunter College (HW 1205) and by appointment [phone or Zoom is fine]<br>
 
 Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
@@ -32,13 +32,13 @@ By the end of the semester, students will
 ## **Responsibilities:** 
 
 - four blog posts of 500-800 words + informal commenting on others’ posts
-- occasional annotation of primary and secondary texts using [hypothes.is platform](http://hypothes.is)
-- participation in three small “building/sharing” projects
+- participation in one small “building/sharing” group project
+- one 10-15 min in-class presentation on a game or other example of "playable media" of your choosing
 - final project OR topic of your own devising based on original research (ca. 15 pp. essay or equivalent negotiated with instructor)
 - regular attendance and participation in all discussions
 
 ## **Grading:** 
-I will give detailed guidelines for the blog posts, annotations, collaborative projects, and final projects separately.  Your grade will be calculated as follows: blogging (25%); annotations (10%); small projects (20%); final project (30%); participation (15%). 
+I will give detailed guidelines for the blog posts, collaborative project, presentation, and final project separately.  Your grade will be calculated as follows: blogging (25%); group project (15%); presentation (15%); final project (30%); participation (15%). 
 
 
 ## Sexual Misconduct Policy:
