@@ -51,7 +51,7 @@
 		* and author interview, "How it is in Common Tongues"
 		* note: windsound is in Mac's deprecated QuickTime format, so unless you have an old rig, you're better off watching the (passive) film version on Cayley's site to get a sense of the thing.
 		* Larsen, [*The Pines at Walden Pond*](https://www.cddc.vt.edu/host/deena/pines/)
-		* shirley jackson, [Snow](https://www.instagram.com/snowshelleyjackson/)
+		* Shelley Jackson, [Snow](https://www.instagram.com/snowshelleyjackson/)
 
 ### work due:
 * Group Project #1 due
