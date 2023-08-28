@@ -13,9 +13,7 @@
 * Choose a public-domain text to render “playable” for the Group Project
 
 ### work due
-* **Blog Post #1:**                                                                                                                                                                                                                                                                                           
-(anti)Prompt and guidelines TBA
-
+* **Blog Post #1:** Apply one or more of the theorizations of play that we've read to a game or other instance of play in your life. You might consider how play practices inscribe a "magic circle" that seems to exist outside of ordinary time and space per Huizinga, you might explore the structuralist divisions of Caillois's work to specify the particular balance of play modes in your example, or you might consider more holistically, per Bogost's work, how                                                                                                                                                                                                                                                                 
 ## 9/18    Play theory II
 
 ### readings/in class:
@@ -57,6 +55,8 @@
 
 ### work due:
 * Group Project #1 due
+* Presentation #2
+
 
 
                                                                                                 
@@ -66,6 +66,8 @@
 * Bogost, "Why Gamification is Bullshit"
 
 ### work due:
+* Presentation #3
+
 
                                                                
 ## 10/23 Managerial Play II
@@ -75,6 +77,8 @@
 
 ### work due:
 * **Blog post #3:** Explore a "gamified" or otherwise disciplined/administered online environment and describe as thickly as possible the initial user experience and any reflections you have on what disciplinary forces may be in play. Possible examples: Ed Tech platforms like Khan Academy or Duolingo, shopping interfaces, or the classic "surveillance capitalist" examples of Zuboff's discourse, like Google/Pokemon Go, Facebook/Meta, etc.
+* Presentation #4
+
 
 ## 10/30 Rhetorical Play: play as persuasion
 
@@ -91,7 +95,9 @@
 
 ### work due: 
 
-* **Blog post #4:** open prompt. Write about any of the pieces from this or last week… 
+* **Blog post #4:** open prompt. Write about any of the pieces from this or last week…
+*  Presentation #5
+
                                                                                                  
 ## 11/6 Rhetorical Play II
 ### readings/in class:
@@ -105,7 +111,9 @@
   * Nicky Case’s [games](https://ncase.itch.io/)
   * [Destory History](https://epoiesen.library.carleton.ca/2017/09/01/destory-history/) 
 
-
+### work due: 
+* Presentation #6
+  
 ## 11/13 Radical Play: play as resistance/subversion
 ### readings/in class:
 * Flanagan, from *Critical Play* (intro + Ch. 6, "Locative Games")
@@ -117,6 +125,7 @@
 
 ### work due:
 * Proposal for Final Project Due
+* Presentation #7
 
 ## 11/20 Radical Play II
                                                                                                                                          
@@ -129,6 +138,7 @@
 
 
 ### work due:
+* Presentation #8
 
 
                                                                                                               
@@ -136,7 +146,6 @@
 ### readings/in class: 
 
 ### work due:
-* **Move #1 due**
 
 ## 12/4    People's Choice: topic TBA
 ### readings/in class: 
