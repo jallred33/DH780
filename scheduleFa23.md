@@ -26,7 +26,7 @@
 
 ### work due:
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-* **blog post #2:**                                                                                                                                
+* **blog post #2:** open prompt. Write about any of the pieces from this or last week…                                                                                                                                
  
 ## 10/2   Magical Play: play as (re)enchantment
 ### readings/in class:
