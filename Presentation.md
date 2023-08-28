@@ -1,4 +1,3 @@
-# Presentation
 Each student will give one ten-minute presentation on a work that is both *literary* and *ludic* in some sense. A lot of ink has been spilled on both of these terms, but what I’m looking for is material that is narrative or poetic but hails the reader as a co-participant, a “player” of the text, in ways that are more decisive and thorough than most literary texts. 
 
 A good place to look is the trove of “electronic literature” produced over the past 30 years or so. What’s “electronic literature”? Our definition of electronic literature is expansive, but it generally means a creative work invested in language, meaning, or storytelling that takes advantage of the unique properties of digital environments. A videogame that does not place storytelling first would *not* be appropriate for this project.
