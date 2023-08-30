@@ -11,8 +11,7 @@ Course Blog: [https://dh780fa23.commons.gc.cuny.edu](https://dh780fa23.commons.g
 Course Group: [https://commons.gc.cuny.edu/groups/dh-780-fa23](https://commons.gc.cuny.edu/groups/dh-780-fa-2023/)
 
 
-Hypothes.is group: [https://hypothes.is/groups/BvvYVX6B/dh780fa23](https://hypothes.is/groups/BvvYVX6B/dh780fa23)
-
+Hypothes.is group: [https://hypothes.is/groups/37jWDiEm/dh780fa23](https://hypothes.is/groups/37jWDiEm/dh780fa23)
 
 ## Course Description:
 
