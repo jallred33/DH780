@@ -29,7 +29,6 @@
 
 ### work due:
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-* **blog post #2:** open prompt. Write about any of the pieces from this or last week…                                                                                                                                
  
 ## 10/2   Magical Play: play as (re)enchantment
 ### readings/in class:
@@ -70,6 +69,8 @@
 
 ### work due:
 * Presentation #3
+*  **blog post #2:** reflection on Group Project. See [Project page](https://dh780fa23.commons.gc.cuny.edu/group-project/) for prompt.                                                                                                                            
+
 
 
                                                                
