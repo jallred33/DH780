@@ -10,6 +10,6 @@ Finally, you might think about videogames with a strong narrative disposition or
 
 The presentation should contain some visuals in the form of a slide deck: screengrabs or screen recordings, a walk-through capturing the reader/player/user’s itineraries through the text, and a reflection, using some of the  “game theory” vocabulary we’re acquiring in the course, on what the game/text/mode of play *does* to us: enchanting us in the sense of McGonigal’s work, mounting arguments in the “procedural rhetoric” outlined by Bogost, enacting a critique of some unexamined aspect of culture as Flanagan explores, and so on. Make sure to rehearse enough to give us a “tight ten”: if you do your job, we’ll all spend 10 hours on our own, wrestling with the object you’ve so provocatively presented!
 
-Please sign up [here](https://www.dropbox.com/scl/fi/nuqqnp1n4faidiz1rx1a2/signup_for_presentation.docx?rlkey=03l9p1xl5tcpdyclgcrgf7fp1&dl=0)
+Please sign up [here](https://docs.google.com/spreadsheets/d/1x0_sa1qdNmlJGN4RnxcfWRvRamBt0zEUuxrW1IzbHJI/edit?usp=sharing)
 
 Note: this project is adapted from Mark Sample's [Let's Play](https://courses.digitaldavidson.net/elit20/lets-play/) assignment.
