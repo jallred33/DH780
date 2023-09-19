@@ -8,7 +8,7 @@ Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
 Course Blog: [https://dh780fa23.commons.gc.cuny.edu](https://dh780fa23.commons.gc.cuny.edu)
 
-Course Group: [https://commons.gc.cuny.edu/groups/dh-780-fa23](http://cuny.is/group-dh-780-fa-2023)
+Course Group: [http://cuny.is/group-dh-780-fa-2023](https://commons.gc.cuny.edu/groups/dh-780-fa-2023/)
 
 
 Hypothes.is group: [https://hypothes.is/groups/37jWDiEm/dh780fa23](https://hypothes.is/groups/37jWDiEm/dh780fa23)
