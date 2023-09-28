@@ -35,7 +35,7 @@
 * Murray, from *Hamlet on the Holodeck*
 * examples:
 	* [The River Poem](https://dashboards.maynoothuniversity.ie/portfolios/the-river-poem/)
-	* Katherine Norman, [Window](https://collection.eliterature.org/3/work.html?work=window) and [Listening in Place - Window](https://www.novamara.com/window/desktop.html)
+	* Katherine Norman, [Window](https://collection.eliterature.org/3/work.html?work=window) and [her essay on the project](https://www.researchcatalogue.net/view/266147/266148)
 
 ### work due:
 * Presentation #1
