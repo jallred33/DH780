@@ -51,7 +51,7 @@
 	* Cayley, 
 		* [*Windsound*](http://programmatology.shadoof.net/?wsqt)
   		* Cayley's essay on the project, [inner workings](http://www.dichtung-digital.de/2003/issue/3/Cayley.htm) 
-		* Cayley interview, "How it is in Common Tongues" [in Group Library]
+		* Cayley interview, [in Group Library]
 		* note: windsound is in Mac's deprecated QuickTime format, so unless you have an old rig, you're better off watching the (passive) film version on Cayley's site to get a sense of the thing.
 	* Larsen, [*The Pines at Walden Pond*](https://www.cddc.vt.edu/host/deena/pines/)
 	* Shelley Jackson, [Snow](https://www.instagram.com/snowshelleyjackson/)
