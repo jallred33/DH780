@@ -45,7 +45,7 @@
 ## 10/10 [note change] Magical Play II 
 
 ### readings/in class:
-* McGonigal, from *Reality is Broken* (Chs 1 + 6)
+* McGonigal, from *Reality is Broken* (Chs 1 + 7)
 * Bogost, "The Squalid Grace of *Flappy Bird*"
 * examples:
 	* Cayley, 
