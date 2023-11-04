@@ -112,6 +112,7 @@
 * examples
 	* noodle around in [*Adventure*/*Colossal Cave*](https://iplayif.com/?story=https%3A%2F%2Fifarchive.org%2Fif-archive%2Fgames%2Fzcode%2FAdvent.z5) per Montfort's reading
   * [Uncle Buddy’s Funhouse](https://archive.org/details/unclebuddy)1990s Mac hypercard fiction
+	  * [this site](https://dtc-wsuv.org/projects/uncle-buddy/archival/story.html) gives some useful context and another instance of the novel via emulation
   * Sample, [10 lost boys](https://samplereality.itch.io/10-lost-boys)
   * You are Jeff Bezos (in Dropbox > games)
   * Nicky Case’s [games](https://ncase.itch.io/)
