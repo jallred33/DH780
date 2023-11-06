@@ -1,5 +1,5 @@
-_There is no one template for your final projects for this course:
-_
+There is no one template for your final projects for this course:
+
 * some will write traditional essays, and some digital projects
 * some will do individual projects, and some in pairs or groups
 * some will do extensions of the projects we’ve already done, and 
@@ -34,3 +34,12 @@ final due 12/18
 ## OTHER STUFF
 
 * I'm jotting  [a running list of topics](https://www.dropbox.com/scl/fi/9lwk7n7e0ubwem5106ag9/Research-Ideas_.paper?rlkey=n9ed6mq6382cxsfllh0r6jx5a&dl=0) as I think of them (or you suggest them in class); feel free to withdraw or deposit new ideas: it's editable. 
+
+## EXAMPLES:
+To see a few scattered examples of projects rooted in making rather than analyzing, take a look at these projects by prior students (shared with permission):
+<ul>
+ 	<li><a href="https://allred720fa20.commons.gc.cuny.edu/2020/12/20/remixing-a-classic-communal-writing-reading-and-playing/">Maggi Delgado's remediation</a> of Arthur Miller's <em>The Crucible</em> using the Episodes Interactive platform, which facilitates multimodal online narratives.</li>
+ 	<li><a href="https://allred720fa20.commons.gc.cuny.edu/2020/12/20/remixing-a-classic-communal-writing-reading-and-playing/">Lisa's narrative</a> (who prefers to be lightly anonymized) refashioning Melville's <em>Bartleby, the Scrivener</em> as a branched narrative navigated by readers using Twine.</li>
+ 	<li><a href="https://allred720fa20.commons.gc.cuny.edu/2020/12/21/farce-a-collection-of-vignettes-link-to-the-project-at-the-bottom/">Matt Rubin's hypertext narrative <em>Farce</em></a>, which uses a puzzle- or game-like structure to tell a sort of autofiction-y story.</li>
+ 	<li><a href="https://allred720fa20.commons.gc.cuny.edu/2020/12/17/gray-game/">Lola Shenu's game</a> reworking Spaulding Grey's work into a game of sorts using itch.io.</li>
+</ul>
