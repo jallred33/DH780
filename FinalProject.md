@@ -1,5 +1,5 @@
-There is no one template for your final projects for this course:
-
+_There is no one template for your final projects for this course:
+_
 * some will write traditional essays, and some digital projects
 * some will do individual projects, and some in pairs or groups
 * some will do extensions of the projects we’ve already done, and 
