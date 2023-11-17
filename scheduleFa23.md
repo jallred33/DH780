@@ -144,7 +144,7 @@
 	* McGann et al., [“Ivanhoe: Education in a New Key”](http://www.rc.umd.edu/pedagogies/commons/innovations/IVANHOE.html)
  		* Games "playing" Charles Chesnutt's *The Conjure Tales*
    		* Games playing Nella Larsen's *Quicksand* and *Passing*
-     		* note: "reading" the games is a bit hard to do. To get some sense of the way the play unfolds in a given game, scroll to the end and read to the top. You might also explore the character sheets, the splash pages, the "journal" entries, etc.
+     * note: "reading" the games is a bit hard to do. To get some sense of the way the play unfolds in a given game, scroll to the end and read to the top. You might also explore the character sheets, the splash pages, the "journal" entries, etc.
 
 
 ### work due:
