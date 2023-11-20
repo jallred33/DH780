@@ -140,6 +140,7 @@
 * Boluk+LeMieux, from *Metagaming*
 * examples:
 	* Cayley and Howe, [How it is in Common Tongues](https://www.ubu.com/contemp/cayley/index.html)
+		* helpful gloss on the project [here](http://thereadersproject.org/installations/ct.html#ct)
 	* Tiselli, [Degenerative](http://motorhueso.net/degenerative/) and [Regenerative](http://motorhueso.net/regenerative/regenerative.php)
 	* McGann et al., [“Ivanhoe: Education in a New Key”](http://www.rc.umd.edu/pedagogies/commons/innovations/IVANHOE.html)
  		* [Games "playing" Charles Chesnutt's *The Conjure Tales*](https://talkingbook.commons.gc.cuny.edu/)
