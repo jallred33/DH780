@@ -153,13 +153,22 @@
 
 
                                                                                                               
-## 11/27  People's Choice: topic TBA
+## 11/27  People's Choice: Digital Poetry
 ### readings/in class: 
+* [Nick Montfort's recreations](https://nickm.com/memslam/) of "computational poetry, electronic literature, and digital literary art that was originally developed on batch processing systems"
+	* Might check out what many scholars consider the earliest version of DigiPo, Strachey's "Love Letters" (1953), and Montfort's [post contextualizing it](https://grandtextauto.soe.ucsc.edu/2005/08/01/christopher-strachey-first-digital-artist/)
+ * [Wylde's HaikU](https://www.preneo.org/nwylde/haikU/index.shtml), which allows users to contribute to a database of haiku lines that are algorithmically recombined by the interface.
+ * [Taper, Number 8](https://taper.badquar.to/8/): the theme is "8-Bit Nostalgia," and there's a lot of work here that intersects with stuff we worked on and talked about. "Read" as many as you have time for. Also take a random walk through [the other issues](https://taper.badquar.to/): fascinating project with contributions from some familiar names.
 
 ### work due:
 
-## 12/4    People's Choice: topic TBA
+## 12/4    People's Choice: Branching Narratives
 ### readings/in class: 
+* Borges "Garden of the Forking Paths"
+* Moulthroup's 2022 restoration of [Victory Garden](https://victory-garden2022.com/titlePage.html) (1991)
+* [Queers in Love at the End of the World (2013)](https://w.itch.io/end-of-the-world)
+* optional:
+	* remediated excerpt from Machado's *Dream House* (2019)
 
 ### work due:     
 * **optional** submission of draft or intro or piece of final project due
