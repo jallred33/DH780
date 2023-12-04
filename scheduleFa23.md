@@ -168,7 +168,7 @@
 * Moulthroup's 2022 restoration of [Victory Garden](https://victory-garden2022.com/titlePage.html) (1991)
 * [Queers in Love at the End of the World (2013)](https://w.itch.io/end-of-the-world)
 * optional:
-	* remediated excerpt from Machado's *Dream House* (2019)
+	* remediated [excerpt from Machado's *Dream House*](https://www.dropbox.com/s/co3agifiszklrdh/Machado-Dream%20House%20as%20Choose%20Your%20Own%20Adventures.pdf?dl=0) (2019)
 
 ### work due:     
 * **optional** submission of draft or intro or piece of final project due
