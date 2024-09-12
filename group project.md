@@ -33,4 +33,7 @@ This is a new course, but I have had students engage in this kind of transformat
 * Miaoling Xue’s [Twine-based version of Sui-Sin Far’s memoir](https://dh720fa22.commons.gc.cuny.edu/2022/12/20/final-project-in-the-land-of-the-free/)/novel of immigrating to the US.
 * Nathalie Kretschmer’s [charming 8-bit video game](https://dh720fa22.commons.gc.cuny.edu/2022/12/17/the-leaf-collector-adapting-whitman-for-accessibility-and-fun/ based on Whitman’s long poem *Leaves of Grass*, built with Bitsy.
 * Lisa’s (who prefers to have her last name private) [Twine-based version of Melville’s *Bartleby, the Scrivener*](https://allred720fa20.commons.gc.cuny.edu/2020/12/15/saving-bartleby-a-twine-game/), emphasizing the historical context that’s so crucial to the text.
+* Last year's 780 had two groups who did interesting (and super-weird) things:
+   * a deranged version of parts of Sterne's already deranged novel, *Tristram Shandy*, [summed up here](https://dh780fa23.commons.gc.cuny.edu/2023/10/16/p-l-a-y-i-n-g-tristram-shandy/) by Patricia Belen with some links to explore.
+   * an even more experimental piece created in Python that jumped off of a Borges story, ["Pierre Menard, Author of the Quixote"](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote): the game is hard to explain but attempts to mirror Borges's title character's claim to have re-created Cervantes's *Don Quixote*. Those with some Python chops can run it on their own machines [via this link](https://github.com/bondie00/DonQuixote).
 ### 
