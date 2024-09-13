@@ -36,4 +36,13 @@ This is a new course, but I have had students engage in this kind of transformat
 * Last year's 780 had two groups who did interesting (and super-weird) things:
    * a deranged version of parts of Sterne's already deranged novel, *Tristram Shandy*, [summed up here](https://dh780fa23.commons.gc.cuny.edu/2023/10/16/p-l-a-y-i-n-g-tristram-shandy/) by Patricia Belen with some links to explore.
    * an even more experimental piece created in Python that jumped off of a Borges story, ["Pierre Menard, Author of the Quixote"](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote): the game is hard to explain but attempts to mirror Borges's title character's claim to have re-created Cervantes's *Don Quixote*. Those with some Python chops can run it on their own machines [via this link](https://github.com/bondie00/DonQuixote).
-### 
+
+## groups:
+
+| Group 1: | Group 2: |
+| --- | ---|
+| Tasha | Leonard |
+| Melissa | Travis |
+| Matthew | Alex |
+| Wiktor | Leila |
+| Wandi | Brandon |
