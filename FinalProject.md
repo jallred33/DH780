@@ -23,16 +23,16 @@ But I want to give some sense of the bar you must clear and some sense of how I 
 	* **reflectiveness**: Is there some kind of reflective writing that contextualizes the object for its audience (or analyzes it for my benefit)? Do the authors (or author) show an awareness of how the object relates to other similar efforts in circulation, or to the long history of reading we’ve examined in the course?
 
 ## DEADLINES:
-* proposal due 11/14 on blog:
+* proposal due 11/17 on blog:
 	* max 1000 words
 	* careful description of a topic with a clearly defined objective or research question
 	* brief mention of a few relevant sources you've found, or, for some projects, relevant examples of other sites or digital objects
 
-* optional submission of draft or intro or piece due 12/5
+* optional submission of draft or intro or piece due 12/1
 * This is the last date by which I can reasonably turn work around in time for it to help you
 * Anyone can give me anything at any time up to this date
 * No one can give me nuthin' after this date: capiche?
-final due 12/19 
+final due 12/15 
 
 ## OTHER STUFF
 
