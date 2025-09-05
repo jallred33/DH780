@@ -13,7 +13,8 @@
 * Johan Huizinga, from *Homo Ludens* (1938)
 * Roger Caillois, from *Man, Play, and Games* (1958)
 * Suits, from *The Grasshopper* (1978): chs. 1-3 only.
-* Peruse Gooding's *The Book of Surrealist Games* and come to class ready to discuss one you found interesting/infuriating/provocative.
+* Lewis Carroll, *Alice in Wonderland* (get as far as you can, but lower priority than the above: feel free to grab a free open-source edition like [Project Gutenberg's](https://www.gutenberg.org/files/11/11-h/11-h.htm) for convenience.
+
 
 ### work due
 * **Blog Post #1:** Apply one or more of the theorizations of play that we've read to a game or other instance of play in your life. You might consider how play practices inscribe a "magic circle" that seems to exist outside of ordinary time and space per Huizinga, you might explore the structuralist divisions of Caillois's work to specify the particular balance of play modes in your example, or you might consider more holistically, per Bogost's work, how play enhances, or might enhance, aspects of your life. Posts should be 500-800 words and fairly informal but should reference (a) specific reading/s.
@@ -26,7 +27,7 @@
 * From Fullerton and Faber, *The Well-Played Game*
 * From Sicart, *Play Matters*
 * Zimmerman’s “Manifesto for a Ludic Century”
-* Continue perusing Gooding's book on surrealism.
+* Finish Carroll
 * Organize Group Project
 
 
@@ -140,6 +141,8 @@
 
 ### work due: 
 * Presentation #6
+* Proposal for Final Project Due
+
 
 
 
@@ -154,7 +157,6 @@
 	* Sample, [Ring Log](https://fugitivetexts.net/ring/)
 
 ### work due:
-* Proposal for Final Project Due
 * Presentation #7
                                                                                                                                          
                                                                                                               
@@ -172,6 +174,8 @@
 
 ### work due:
 * Presentation #8
+* **optional** submission of draft or intro or piece of final project due
+
 
 ## 12/8    People's Choice: topic TBA
 ### readings/in class: 
@@ -184,7 +188,6 @@
 * for those without Windows, see the high points [via YouTube](https://www.youtube.com/watch?v=2OrdhGiKnMw)
  
 ### work due:     
-* **optional** submission of draft or intro or piece of final project due
                                                                                                                                             
 ## 12/15   Wrapping up
 ### work due:
