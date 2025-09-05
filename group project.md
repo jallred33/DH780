@@ -3,11 +3,11 @@
 
 In this group project, you will divide into teams of 4-5ish (depending on our numbers) and “remediate” a literary work (probably *Alice in Wonderland*) to render it as an example of what Nick Montfort calls “playable media.” By “playable,” I mean that the assumed positions “author” and “reader” in the received way of thinking about “literature”—literature is authors writing textual sequences that readers read in order—gives way to something different. That difference is up to you, but at a minimum, you’ll be expanding this one-way flow to accommodate a) a reader who may still read, but who participates more actively and creatively as well, making choices in a branching structure, adding to the text (thus becoming a co-writer or interpreter), or even moving an avatar in a simulated space, in a video game mode. 
 
-You’ll present your object in class on **10/10**, so you’ll have to work quickly and dispense with perfectionism: this is definitely a “quick and dirty” build in which process trumps product: I want you to get a sense of what it means to transform an object through play, and to use that nitty-gritty experience to think more deeply about the rather abstract theories of play we’re reading, on one hand, and the many playful objects we’ll examine throughout the term on the other.
+You’ll present your object in class on **10/27**, so you’ll have to work quickly and dispense with perfectionism: this is definitely a “quick and dirty” build in which process trumps product: I want you to get a sense of what it means to transform an object through play, and to use that nitty-gritty experience to think more deeply about the rather abstract theories of play we’re reading, on one hand, and the many playful objects we’ll examine throughout the term on the other.
 
 ## suggested steps:
 
-1. Read the text (duh). I like the idea of using Carroll’s *Alice in Wonderland* and have scheduled time for us to read it together to kick-start things, but you might consider others if you like, for example, [A Tangled Tale](https://www.gutenberg.org/files/29042/29042-h/29042-h.htm), Carroll’s less-known, serially-published book of mathematical puzzles, since Carroll’s work bakes in the mechanics and spirit of play in such a delightfully “meta” way. 
+1. Find a text and read it (duh). I like the idea of using Carroll’s *Alice in Wonderland* and have scheduled time for us to read it together to kick-start things, but you might consider others if you like, for example, [A Tangled Tale](https://www.gutenberg.org/files/29042/29042-h/29042-h.htm), Carroll’s less-known, serially-published book of mathematical puzzles, since Carroll’s work bakes in the mechanics and spirit of play in such a delightfully “meta” way. Or you might get really crazy and remediate one of the Surrealist "games" in the collection edited by Gooding that's in the Useful + Extra file in COURSE READINGS in the [Group Library](https://commons.gc.cuny.edu/groups/dh-780-fa25/library/#/).
 2. Choose a platform. As mentioned in class, [Twine](https://twinery.org/) is a fabulous HTML-based tool that generates branched, non-linear storytelling structures. It’s pretty easy to use: my kid created a simple version of H. G. Wells’s *The Time Machine* in 6th grade during the pandemic. But it can be taken to great heights of design and creativity, as we’ll see throughout the term. You might poke around and think about other approaches, using the [Ivanhoe theme for WordPress](https://help.commons.gc.cuny.edu/ivanhoe/) (example below), a simple video game engine, or something else. The only thing you can’t do is agonize, since you’ve only got a few weeks!
 3. Devise a workflow. The division of labor will vary, depending on the text, the approach, and the platform, but you may need:
    1. researchers to dig into the history of the text and its cultural context
@@ -41,8 +41,8 @@ This is a new course, but I have had students engage in this kind of transformat
 
 | Group 1: | Group 2: |
 | --- | ---|
-| Tasha | Leonard |
-| Melissa | Travis |
-| Matthew | Alex |
-| Wiktor | Leila |
-| Wandi | Brandon |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
