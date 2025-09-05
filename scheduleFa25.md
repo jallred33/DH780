@@ -1,6 +1,8 @@
 
 (readings either have links to open resources or the GC library proxy, or they are in the Library section of [our Commons Group](https://commons.gc.cuny.edu/groups/dh-780-fa24/) in .pdf.
 
+*9/5/25 note: specific readings are still a bit under construction: the weird Monday schedule is throwing things off a bit. But I will have things tacked down soon, and this schedule gives a good, basic sense of what the topics will be and when things will be due.*
+
 ## 9/8    Introduction, requirements, assignments 
 * Commons onboarding
 * Review of course themes and assignment structure
