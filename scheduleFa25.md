@@ -26,7 +26,7 @@
 ### readings/in class:
 * From Fullerton and Faber, *The Well-Played Game*
 * From Sicart, *Play Matters*
-* Zimmerman’s “Manifesto for a Ludic Century”
+* Zimmerman’s “Manifesto for a Ludic Century” (2015)
 * Finish Carroll
 * Organize Group Project
 
