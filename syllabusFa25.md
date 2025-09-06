@@ -10,6 +10,8 @@ Course Blog: [https://dh780fall25.commons.gc.cuny.edu](https://dh780fall25.commo
 
 Course Group: [https://commons.gc.cuny.edu/groups/dh-780-fa25/](https://commons.gc.cuny.edu/groups/dh-780-fa25/)
 
+itch.io collection: [https://itch.io/c/3571413/780](https://itch.io/c/3571413/780)
+
 
 
 ## Course Description:
