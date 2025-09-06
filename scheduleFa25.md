@@ -8,12 +8,12 @@
 * Review of course themes and assignment structure
 * self-introductions via [Padlet](https://padlet.com/huntercollege68/dh-780-introduction-games-people-play-dzipvfzc3q4cyf7t): ungraded/optional, but a fun way to get to know each other.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
          
-## 9/15 What is Play? A brief intro to “play theory”
+## 9/15 What is Play? A brief intro to “philosophies of play”
 ### readings/in class   
 * Johan Huizinga, from *Homo Ludens* (1938)
 * Roger Caillois, from *Man, Play, and Games* (1958)
 * Suits, from *The Grasshopper* (1978): chs. 1-3 only.
-* Lewis Carroll, *Alice in Wonderland* (get as far as you can, but lower priority than the above: feel free to grab a free open-source edition like [Project Gutenberg's](https://www.gutenberg.org/files/11/11-h/11-h.htm) for convenience.
+* Lewis Carroll, *Alice in Wonderland* (get as far as you can, but lower priority than the above: feel free to grab a free edition like [the 1898 public-domain edition with the legendary engravings by John Tenniel](https://archive.org/details/carroll-1898-alice-in-wonderland/Carroll_1898_Alice_in_Wonderland/page/4/mode/2up) for convenience.
 
 
 ### work due
@@ -21,7 +21,7 @@
 
 
 
-## 9/29 Play theory II
+## 9/29 Play philosophy II
 
 ### readings/in class:
 * From Fullerton and Faber, *The Well-Played Game*
@@ -37,10 +37,11 @@
  
 ## 10/6   Magical Play: play as (re)enchantment
 ### readings/in class:
-* Murray, from *Hamlet on the Holodeck*
-* examples (and note changes from original schedule):
-	* [Serge Bouchardon, et al. Loss of Control](https://bouchard.pers.utc.fr/deprise/home)
-	* [Montfort and Strickland, *The Sea and Spar Between*](https://nickm.com/montfort_strickland/sea_and_spar_between/reading.html): I highly recommend that you peruse the heavily annotated code for the project [here](https://nickm.com/montfort_strickland/sea_and_spar_between/sea_spar.js) as well.
+* Anable, from *Playing with Feelings* (2018)
+* examples:
+	* ZIPIT! demo, ["The Wide Sky is Running Out of Catfish!"](https://zip-it.itch.io/catfish) [requires download + Windows]
+		* for those without Windows, see the high points [via YouTube](https://www.youtube.com/watch?v=2OrdhGiKnMw)
+    * [Montfort and Strickland, *The Sea and Spar Between*](https://nickm.com/montfort_strickland/sea_and_spar_between/reading.html): I highly recommend that you peruse the heavily annotated code for the project [here](https://nickm.com/montfort_strickland/sea_and_spar_between/sea_spar.js) as well.
 	
 ### work due:
 * Presentation #1
@@ -51,11 +52,11 @@
 
 ### readings/in class:
 * McGonigal, from *Reality is Broken* (Intro + ch. 7)
-* Bogost, "The Squalid Grace of *Flappy Bird*"
+* Isbister, from *How Games Move Us* (2017)
+
 * examples:
 	* Pippin Barr: [The Nothings Suite](https://pippinbarr.com/the-nothings-suite/) and, if you appreciate the strange sensibility, check out [b r 3](https://pippinbarr.com/b-r-3/), a "gallery" of artists' depictions of water using the minimalist [bitsy](https://bitsy.org/) game engine
 	* Larsen, [*The Pines at Walden Pond*](https://www.deenalarsen.net/pines/)
-		* note: until several hours before class time, I'd not realized that Larsen had moved the project to her personal domain since August! So sorry, but the link works now.
 	* Shelley Jackson, [Snow](https://www.instagram.com/snowshelleyjackson/)
  		* note: need Instagram account. I understand if that's a bridge too far!
 
@@ -99,7 +100,7 @@
 
 
 ### work due:
-* **Blog post #3:** Explore a "gamified" or otherwise disciplined/administered online environment and describe as thickly as possible the various ways the interface disciplines users (in the Foucaultian terms of Whitmore), affords expressive or appropriative pursuit of the "good life" (Sicart), or engages in extraction of "behavioral surplus" (Zuboff). What are the pleasures and pitfalls of this modality of "gameful work/life"? Possible examples: Ed Tech platforms like Code Academy, Khan Academy, or Duolingo, shopping interfaces, or the classic "surveillance capitalist" examples of Zuboff's discourse, like Google/Pokemon Go, Facebook/Meta, etc.
+* **Blog post #3:** Explore a "gamified" or otherwise disciplined/administered online environment and describe as thickly as possible the various ways the interface disciplines users (in the Foucaultian terms of Whitmore), affords expressive or appropriative pursuit of the "good life" (Sicart), or engages in extraction of "behavioral surplus" (Zuboff). What are the pleasures and pitfalls of this modality of "gameful work/life"? Possible examples: Ed Tech platforms like Code Academy, Khan Academy, or Duolingo, shopping interfaces, or the classic "surveillance capitalist" examples of Zuboff's discourse, like Google/Pokemon Go, Meta/IG, etc.
 * Presentation #4
 
 
@@ -179,7 +180,6 @@
 
 ## 12/8    People's Choice: topic TBA
 ### readings/in class: 
-* Anable, "Introduction" to *Playing With Feelings* (2018)
 * Henry Jenkins, ["Game Design as Narrative Architecture"](https://web.mit.edu/~21fms/People/henry3/games&narrative.html)]
 * OPTIONAL: [episode of Games Studies Study Buddies podcast](https://rangedtouch.com/2022/11/30/53-mukherjee-video-games-and-storytelling/) on Mukerjee's 2015 book, *Video Games and Storytelling*
 
