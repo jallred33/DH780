@@ -8,12 +8,13 @@
 
 ## repositories and curated collections:
 
-* [Interactive Fiction Database](https://ifdb.tads.org/):  a great source for parser-based or choice-based interactive stories, particularly ~[the lists here](https://ifdb.tads.org/search?browse&comp)~. The ~[Made with Twine](https://itch.io/games/made-with-twine)~ category on Itch.io has some great finds by indie authors. To save you wading through dozens of possibilities, you can check out ~[sub-Q](https://sub-q.com/)~, a selective journal whose editors vet (and pay authors for) digital fiction.
+* [Interactive Fiction Database](https://ifdb.tads.org/):  a great source for parser-based or choice-based interactive stories, particularly [the lists here](https://ifdb.tads.org/search?browse&comp). The [Made with Twine](https://itch.io/games/made-with-twine) category on itch.io has some great finds by indie authors. To save you wading through dozens of possibilities, you can check out [sub-Q](https://sub-q.com/), a selective journal whose editors vet (and pay authors for) digital fiction.
 * Electronic Literature Collection from the Electronic Literature Organization](http://eliterature.org/): 
   * [volume one](http://collection.eliterature.org/1/), 
   * [volume two](http://collection.eliterature.org/2/), 
   * [volume three](http://collection.eliterature.org/3/)
-*  [Itch.io](Itch.io) and especially the [Made with Twine](https://itch.io/games/made-with-twine) category 
+*  [Itch.io](Itch.io) and especially the [Made with Twine](https://itch.io/games/made-with-twine) category
+ * curated collection [for this course](https://itch.io/c/3571413/780)
 
 ## journals
 * [Ada: A Journal of Gender, New Media, and Technology](https://scholarsbank.uoregon.edu/xmlui/handle/1794/25990)
