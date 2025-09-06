@@ -13,7 +13,7 @@
   * [volume one](http://collection.eliterature.org/1/), 
   * [volume two](http://collection.eliterature.org/2/), 
   * [volume three](http://collection.eliterature.org/3/)
-*  [Itch.io](Itch.io) and especially the [Made with Twine](https://itch.io/games/made-with-twine) category
+*  [Itch.io](Itch.io) and especially the [Made with Twine](https://itch.io/games/made-with-twine) category 
 
 ## journals
 * [Ada: A Journal of Gender, New Media, and Technology](https://scholarsbank.uoregon.edu/xmlui/handle/1794/25990)
