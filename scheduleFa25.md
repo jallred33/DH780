@@ -12,7 +12,7 @@
 ### readings/in class   
 * Johan Huizinga, from *Homo Ludens* (1938)
 * Roger Caillois, from *Man, Play, and Games* (1958)
-* Suits, from *The Grasshopper* (1978): chs. 1-3 only.
+* Berard DeKoven, from *The Well-Played Game* (1978): prefatory material + chs. 1-3 only.
 * Lewis Carroll, *Alice in Wonderland* (get as far as you can, but lower priority than the above: feel free to grab a free edition like [the 1898 public-domain edition with the legendary engravings by John Tenniel](https://archive.org/details/carroll-1898-alice-in-wonderland/Carroll_1898_Alice_in_Wonderland/page/4/mode/2up) for convenience.
 
 
