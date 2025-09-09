@@ -33,7 +33,7 @@
 
 
 ### work due:
-* sign up for Play Presentations here
+* sign up for Play Presentations [here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
  
 ## 10/6   Magical Play: play as (re)enchantment
