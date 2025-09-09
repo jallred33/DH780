@@ -1,7 +1,7 @@
 
 (readings either have links to open resources or the GC library proxy, or they are in the Library section of [our Commons Group]([https://commons.gc.cuny.edu/groups/dh-780-fa24/](https://commons.gc.cuny.edu/groups/engl-252-fa25/library/)) in .pdf.
 
-*9/8/25 note: specific readings are still a bit under construction: the weird Monday schedule is throwing things off a bit. But I will have things tacked down soon, and this schedule gives a good, basic sense of what the topics will be and when things will be due.*
+*metacomment: things are pretty well set, but be in the habit of checking each week*
 
 ## 9/8    Introduction, requirements, assignments 
 * Commons onboarding
@@ -33,6 +33,7 @@
 
 
 ### work due:
+* sign up for Play Presentations here
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
  
 ## 10/6   Magical Play: play as (re)enchantment
