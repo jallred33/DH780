@@ -24,7 +24,7 @@
 ## 9/29 Play philosophy II
 
 ### readings/in class:
-* From Fullerton and Faber, *The Well-Played Game*
+* From Fullerton and Faber, *The Well-Read Game* (2022)
 * From Sicart, [*Play Matters*](https://ebookcentral.proquest.com/lib/cunygc/detail.action?docID=3339842) Ch 1 only.
 * Zimmerman’s “Manifesto for a Ludic Century” (2015)
 * Finish Carroll
