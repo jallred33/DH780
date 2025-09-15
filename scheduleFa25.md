@@ -67,8 +67,8 @@
 
 
                                                                                                 
-## 10/24 (note change to Friday): Field Trip !?
-* TBA, but gunning for a trip to the Museum of the Moving Image in LIC, Queens
+## 10/24 (note change to Friday): Field Trip to [Museum of the Moving Image](https://movingimage.org/)
+* meet at 6pm: 1 hr. tour + extra time to poke around
 * Readings to prepare TBA as well: likely a selection from Kocurek’s *Coin-Operated Americans*, a cultural history of arcades and arcade games.
 
 
