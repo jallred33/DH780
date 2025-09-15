@@ -17,7 +17,7 @@
 
 
 ### work due
-* **Blog Post #1:** Apply one or more of the theorizations of play that we've read to a game or other instance of play in your life. You might consider how play practices inscribe a "magic circle" that seems to exist outside of ordinary time and space per Huizinga, you might explore the structuralist divisions of Caillois's work to specify the particular balance of play modes in your example, or you might consider more holistically, per Bogost's work, how play enhances, or might enhance, aspects of your life. Posts should be 500-800 words and fairly informal but should reference (a) specific reading/s.
+* **Blog Post #1:** Apply one or more of the theorizations of play that we've read to a game or other instance of play in your life. You might consider how play practices inscribe a "magic circle" that seems to exist outside of ordinary time and space per Huizinga, you might explore the structuralist divisions of Caillois's work to specify the particular balance of play modes in your example, or you might consider more holistically, per ~~Bogost's~~ De Koven's work, how play enhances, or might enhance, aspects of your life. Posts should be 500-800 words and fairly informal but should reference (a) specific reading/s.
 
 
 
