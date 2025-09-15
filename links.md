@@ -5,6 +5,7 @@
 * [Deena Larsen](http://www.deenalarsen.net/)
 * [John Cayley](http://programmatology.shadoof.net/)
 * [Nicky Case](https://ncase.itch.io/)
+* [Bernie De Koven's Deep Fun](https://www.deepfun.com/)
 
 ## repositories and curated collections:
 
