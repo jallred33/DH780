@@ -37,13 +37,17 @@ In this and other courses in the program (and at Hunter) I have had students eng
    * a deranged version of parts of Sterne's already deranged novel, *Tristram Shandy*, [summed up here](https://dh780fa23.commons.gc.cuny.edu/2023/10/16/p-l-a-y-i-n-g-tristram-shandy/) by Patricia Belen with some links to explore.
    * an even more experimental piece created in Python that jumped off of a Borges story, ["Pierre Menard, Author of the Quixote"](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote): the game is hard to explain but attempts to mirror Borges's title character's claim to have re-created Cervantes's *Don Quixote*. Those with some Python chops can run it on their own machines [via this link](https://github.com/bondie00/DonQuixote).
    * *Alice*, [a gobsmackingly good-looking "electronic literature" version](https://ahutnick.github.io/alice02/) of the text from the Fall 2024 section.
+ 
+## Note that didn't fit anywhere else:
+
+There is an edition of the text, *The Annotated Alice* (Norton, 2015), that is richly illustrated and copiously annotated with historical context. You might find it suggestive, as you plan, to find out all the jokes on popular culture that are embedded in this text. Once you realize that the "nonsense" material is often burlesquing very familiar, pious verse and art from the Victorian era, the text's extreme subversiveness stands out all the more.
 
 ## groups:
 
 | Group 1: | Group 2: |
 | --- | ---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Aaron | Christian |
+| Michelle | Xavier |
+| Kait | Sneha |
+|  | Naila |
 |  |  |
