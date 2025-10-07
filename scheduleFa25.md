@@ -45,7 +45,7 @@
     * [Montfort and Strickland, *The Sea and Spar Between*](https://nickm.com/montfort_strickland/sea_and_spar_between/reading.html): I highly recommend that you peruse the heavily annotated code for the project [here](https://nickm.com/montfort_strickland/sea_and_spar_between/sea_spar.js) as well.
 	
 ### work due:
-* Presentation #1
+* Presentation #1: Michelle
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
@@ -60,9 +60,12 @@
 	* Larsen, [*The Pines at Walden Pond*](https://www.deenalarsen.net/pines/) and Fullerton et al., [Walden: A Game](https://www.waldengame.com/)
 	* Shelley Jackson, [Snow](https://www.instagram.com/snowshelleyjackson/)
  		* note: need Instagram account. I understand if that's a bridge too far!
+* some games cited in this week's readings:
+	* Stern et al. [Waco Resurrection](https://eddostern.com/works/waco-resurrection/)
+	* Hofmeier, [Cart Life](https://en.wikipedia.org/wiki/Cart_Life)  
 
 ### work due:
-* Presentation #2
+* Presentation #2: Christian
 
 
 
