@@ -57,7 +57,7 @@
 
 * examples:
 	* Pippin Barr: [The Nothings Suite](https://pippinbarr.com/the-nothings-suite/) and, if you appreciate the strange sensibility, check out [b r 3](https://pippinbarr.com/b-r-3/), a "gallery" of artists' depictions of water using the minimalist [bitsy](https://bitsy.org/) game engine
-	* Larsen, [*The Pines at Walden Pond*](https://www.deenalarsen.net/pines/)
+	* Larsen, [*The Pines at Walden Pond*](https://www.deenalarsen.net/pines/) and Fullerton et al., [Walden: A Game](https://www.waldengame.com/)
 	* Shelley Jackson, [Snow](https://www.instagram.com/snowshelleyjackson/)
  		* note: need Instagram account. I understand if that's a bridge too far!
 
