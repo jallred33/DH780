@@ -186,13 +186,9 @@
 
 ## 12/8    People's Choice: topic TBA
 ### readings/in class: 
-* Henry Jenkins, ["Game Design as Narrative Architecture"](https://web.mit.edu/~21fms/People/henry3/games&narrative.html)]
-* OPTIONAL: [episode of Games Studies Study Buddies podcast](https://rangedtouch.com/2022/11/30/53-mukherjee-video-games-and-storytelling/) on Mukerjee's 2015 book, *Video Games and Storytelling*
-
+* 
 ### stuff to play with:
-* ZIPIT! demo, ["The Wide Sky is Running Out of Catfish!"](https://zip-it.itch.io/catfish) [requires download + Windows]
-* for those without Windows, see the high points [via YouTube](https://www.youtube.com/watch?v=2OrdhGiKnMw)
- 
+
 ### work due:     
                                                                                                                                             
 ## 12/15   Wrapping up
