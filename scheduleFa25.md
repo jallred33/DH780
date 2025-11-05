@@ -117,12 +117,11 @@
 ## 11/10 Rhetorical Play: play as persuasion
 
 ### readings/in class:   
-* Bogost, from *Persuasive Games*
-* Hayles, from *Electronic Literature*
+* Bogost, "The Rhetoric of Video Games"
+* Jagoda, from *Experimental Games* (Preface, Intro, and Ch5)
 * examples
   * Sarah Gailey, [Stet](https://firesidefiction.com/stet#six)
   * Shelley Jackson, [Wunderkammer](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer/index.html)
-  * Priscilla Snow, [the relief of impact](https://ghoulnoise.itch.io/thereliefofimpact)
   * Quinn, Lindsey, Shankler, [Depression Quest](http://www.depressionquest.com/dqfinal.html#)    
                                                            
 
