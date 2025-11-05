@@ -91,8 +91,10 @@
 	* Bogost, "Why Gamification is Bullshit"
 
 ### work due:
-* Presentation #3
-* Group Project #1 due, including **blog post #2:** reflection on Group Project. See [Project page](https://dh780fa23.commons.gc.cuny.edu/group-project/) for prompt.     v
+* Presentation #3: Sneha
+* Group Project #1 due, including **blog post #2:** reflection on Group Project. See [Project page](https://dh780fa23.commons.gc.cuny.edu/group-project/) for prompt.
+	* Group One: [Who Stole the Tarts?](https://naitopia.itch.io/who-stole-the-tarts)
+ 	* Group Two: [Who are You?](https://www.hilltown.studio/twine/who_are_you.html)
 
 
 
@@ -107,7 +109,7 @@
 
 ### work due:
 * **Blog post #3:** Explore a "gamified" or otherwise disciplined/administered online environment and describe as thickly as possible the various ways the interface disciplines users (in the Foucaultian terms of Whitmore), affords expressive or appropriative pursuit of the "good life" (Sicart), or engages in extraction of "behavioral surplus" (Zuboff). What are the pleasures and pitfalls of this modality of "gameful work/life"? Possible examples: Ed Tech platforms like Code Academy, Khan Academy, or Duolingo, shopping interfaces, or the classic "surveillance capitalist" examples of Zuboff's discourse, like Google/Pokemon Go, Meta/IG, etc.
-* Presentation #4
+* Presentation #4: Naila
 
 
 
