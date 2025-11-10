@@ -137,7 +137,7 @@
 ### readings/in class:
 * Sutton-Smith, from *The Ambiguity of Play*
 * Montfort, from *Twisty Little Passages*
-* optional but interesting: Jagoda, from *Experimental Games* (in EXTRA+USEFUL)
+
 * examples
 	* noodle around in [*Adventure*/*Colossal Cave*](https://iplayif.com/?story=https%3A%2F%2Fifarchive.org%2Fif-archive%2Fgames%2Fzcode%2FAdvent.z5) per Montfort's reading
   * [Uncle Buddy’s Funhouse](https://archive.org/details/unclebuddy)1990s Mac hypercard fiction
