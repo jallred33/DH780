@@ -135,8 +135,9 @@
   
 ## 11/17 Rhetorical Play II
 ### readings/in class:
-* Sutton-Smith, from *The Ambiguity of Play*
-* Montfort, from *Twisty Little Passages*
+* Sutton-Smith, [from *The Ambiguity of Play*](https://www.dropbox.com/scl/fi/6l7zc08nmxpfl6twia2aa/Sutton-Smith-fromThe-Ambiguity-of-Play.pdf?rlkey=nlnnt6u2m43hcqs3rgaqxgxnj&dl=0)
+* Montfort, [from *Twisty Little Passages*](https://www.dropbox.com/scl/fi/55vt6qtiuzg6w48c2mlcx/Montfort-fromTwisty-Little-Passages.pdf?rlkey=55b5x81zctg4tcn6cyz1pl72v&dl=0)
+* OPTIONAL: Ensslin, [from *Literary Gaming*](https://www.dropbox.com/scl/fi/m2q8bu54run109ohiersh/ensslin-fromLITERARYGAMING.pdf?rlkey=s8h0zbqaeujj2l0icwl073hze&dl=0)
 
 * examples
 	* noodle around in [*Adventure*/*Colossal Cave*](https://iplayif.com/?story=https%3A%2F%2Fifarchive.org%2Fif-archive%2Fgames%2Fzcode%2FAdvent.z5) per Montfort's reading
