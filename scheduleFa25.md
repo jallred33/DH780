@@ -158,10 +158,10 @@
 
 ## 11/24 Radical Play: play as resistance/subversion
 ### readings/in class:
-* Flanagan, from *Critical Play* (intro + Ch. 6, "Locative Games")
+* Flanagan, [from *Critical Play*](https://www.dropbox.com/scl/fi/huxwenhdnus813ltem8dh/Flanagan-Critical-Play-intro-ch6.pdf?rlkey=6oxvix6yu7tzsbpnz3ff8hnk2&dl=0) (intro + Ch. 6, "Locative Games")
 * examples:
 	* Montfort and Gillespie’s [2002](http://spinelessbooks.com/2002/palindrome/index.html) (2002)
-	* Zolf, *Human Resources*  
+	* Zolf, *Human Resources*  [C]
 	* Goldsmith, [\(Day\)](https://poets.org/poem/day-excerpt) and [No Such Thing as Writer’s Block](https://vimeo.com/97516145)
 	* Sample, [Ring Log](https://fugitivetexts.net/ring/)
 
