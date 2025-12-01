@@ -172,9 +172,11 @@
 ## 12/1  Radical Play II:
 ### readings/in class:
 * Boluk+LeMieux, from *Metagaming*
+	* [here's the Manifold edition](https://manifold.umn.edu/projects/metagaming) with links to some examples at the ends of the chapters, FYI
 * Samuels and McGann, "Deformance and Interpretation"
 * examples:
 	* [Metagames](https://alt254.itch.io/) from Lemieux/Boluk's experimentation: poke around!
+	* [Metagame manifesto](https://alt254.itch.io/what-should-we-do-with-our-games)
 	* Ivanhoe examples:
  		* [Games "playing" Charles Chesnutt's *The Conjure Tales*](https://talkingbook.commons.gc.cuny.edu/)
    		* [Games playing Nella Larsen's *Quicksand* and *Passing*](https://playingpassing.commons.gc.cuny.edu/)
