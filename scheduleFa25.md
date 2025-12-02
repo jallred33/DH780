@@ -188,10 +188,16 @@
 * **optional** submission of draft or intro or piece of final project due
 
 
-## 12/8    People's Choice: topic TBA
+## 12/8    People's Choice: Dark Play
 ### readings/in class: 
-* 
-### stuff to play with:
+* Nietzsche, [from *The Birth of Tragedy*](https://www.dropbox.com/scl/fi/x9cw5150p73bpfxqqwu38/Nietzsche-fromBIRTHofTRAGEDY.pdf?rlkey=41tn09slgn6mlkzr360xzvtrq&dl=0)
+* Schechner, [from *The Future of Ritual*](https://www.dropbox.com/scl/fi/sojrek6h2rzg3t0npw6oy/Schechner-FROM-The_Future_of_Ritual_Writings_on_Culture_and_Perfo..._-_-Pg_35-56.pdf?rlkey=qvu0ydh4wjm04q4pnzltwovnr&dl=0)
+* Carter, [ch1 from *Treacherous Play*](https://www.dropbox.com/scl/fi/97og9x6dblmqeivso3mfm/Carter-TREACHEROUSPLAYch1-copy.pdf?rlkey=2uls4bikuw7s8397jxxxh6ek6&dl=0) [full book via GC library, if you're interested](https://direct-mit-edu.ezproxy.gc.cuny.edu/books/oa-monograph/5255/Treacherous-Play)
+  
+### optional:
+* Beke, ["Dark Time and the Flow of Petroculture"](https://www.dropbox.com/scl/fi/3vxnd4yv3i4bvrub4j45l/Beke-DarkPlayFlow-2024.pdf?rlkey=whx5hya26mn88vfbhpxmfium0&dl=0)
+* Eugen Fink, [“The Oasis of Happiness: Toward an Ontology of Play,”](https://www.jstor.org/stable/2929663) Yale French
+Studies 41, “Game, Play, Literature” (1968): 25.
 
 ### work due:     
                                                                                                                                             
