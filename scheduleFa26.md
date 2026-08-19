@@ -121,6 +121,7 @@
 * [Exposing AI](https://exposing.ai/)
 	* and browse some of the [coverage of the project](https://exposing.ai/about/news/)
 * Andrew Norman Wilson, ["Workers Leaving the Googleplex"](https://andrewnormanwilson.com/WorkersGoogleplex.html) and [MoMA piece](https://www.moma.org/magazine/articles/770) and [fluxus journal article](https://www.e-flux.com/journal/74/59791/the-artist-leaving-the-googleplex) on the project
+* optional: film, [*Sleep Dealer*](https://www.sleepdealer.com/checkout/sleep-dealer-the-movie/purchase). It's a $3 rental direct from the filmmakers' platform, so nice way to support this kind of work and cut out the overlords/middlemen.
 	       
 
 ### work due: 
