@@ -3,13 +3,13 @@
 
 *metacomment: things are pretty well set, but be in the habit of checking each week*
 
-## 9/10    Introduction, requirements, assignments 
+## 9/3    Introduction, requirements, assignments 
 * Commons onboarding
 * Review of course themes and assignment structure
 * self-introductions via [Padlet](https://padlet.com/huntercollege68/DH780Fa26): ungraded/optional, but a fun way to get to know each other.
 * Note: we won't discuss it today, but there's a lot of reading for 9/17 and a brief, informal writing assignment, so by all means, get a jump on the reading.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
          
-## 9/17 Origins: Marx, Machines, and "the general intellect"
+## 9/10 Origins: Marx, Machines, and "the general intellect"
 ### readings/in class   
 * Karl Marx, "Fragment on Machines" from *Grundrisse*
 * Herman Melville, *Bartleby, the Scrivener*
@@ -21,7 +21,7 @@
 
 
 
-## 9/24 Theories of Immaterial Labor
+## 9/17 Theories of Immaterial Labor
 ### readings/in class:
 * Lazzarato, "Immaterial Labor" (1996)
 * Hardt, "Affective Labor" (1999)
@@ -34,7 +34,7 @@
 ### work due:
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
  
-## 10/1 Attention and/as Labor I
+## 9/24 Attention and/as Labor I
 ### readings/in class:
 
 * Mole, ["Attention", *The Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/archives/win2021/entries/attention/)
@@ -50,7 +50,7 @@
 * Presentation #1: 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-## 10/8 Attention and/as Labor II 
+## 10/1 Attention and/as Labor II 
 ### readings/in class:
 
 * Friends of Attention site: [12 Theses on Attention](https://friendsofattention.org/twelve-theses/) and [Manifesto for the Freedom of Attention](https://friendsofattention.org/manifesto/)
@@ -67,7 +67,7 @@
 
 
                                                                                                 
-## 10/15 “Playbor”: The Laboring of Games and Play I 
+## 10/8 “Playbor”: The Laboring of Games and Play I 
 ### readings/in class:
 
 * Kücklich, ["Precarious Playbour: Modders and the Digital Games Industry" (2005)](https://five.fibreculturejournal.org/fcj-025-precarious-playbour-modders-and-the-digital-games-industry/)
@@ -81,7 +81,7 @@
 
 
                                                                
-## 10/22 “Playbor”: The Laboring of Games and Play II
+## 10/15 “Playbor”: The Laboring of Games and Play II
 ### readings/in class:
 * Hon, from *You've Been Played*
 * Sicart, "Playing the Good Life"
@@ -93,7 +93,7 @@
 
 
 
-## 10/29 “Playbor”: The Laboring of Games and Play III
+## 10/22 “Playbor”: The Laboring of Games and Play III
 ### readings/in class:
 * Jagoda, from *Experimental Games*
 * Wark, from *GamerTheory* and "Losing is Fun"   
@@ -112,7 +112,7 @@
 
 
                                                                                                  
-## 11/5 Geographies of Digital Labor I
+## 10/29 Geographies of Digital Labor I
 
 
 ### readings/in class:   
@@ -132,7 +132,7 @@
 
 
   
-## 11/12 Geographies of Digital Labor II
+## 11/5 Geographies of Digital Labor II
 ### readings/in class:
 
 
@@ -150,7 +150,7 @@
 
 
 
-## 11/19 Academic Labor & the Digital I
+## 11/12 Academic Labor & the Digital I
 ### readings/in class:
 * Bousquet, from *How the University Works* (2008)
 * Watters, from *Teaching Machines* (2024)
@@ -160,16 +160,20 @@
 * Presentation #8
                                                                                                                                          
                                                                                                               
-## 12/3  Academic Labor & the Digital II
+## 11/19  Academic Labor & the Digital II
 ### readings/in class:
 * Williamson, et al. "Re-examining AI"
 * Gilliard and Selwin, "Automated Surveillance in Education"
-* Emily Drabinski, Aliqae Geraci, and Roxanne Shirazi, "Introduction" to special edition of *Library Trends* on "Labor in Academic Libraries”
 * Hogan, ["Artificial Negligence"](https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/artificial-negligence)
 
 ### work due:
 * **optional** submission of draft or intro or piece of final project due
 
+## 13/3 Academic Labor & the Digital III (with special guest Roxanne Shirazi)
+### readings/in class:
+* Emily Drabinski, Aliqae Geraci, and Roxanne Shirazi, "Introduction" to special edition of *Library Trends* on "Labor in Academic Libraries”
+* Green, ["What Does AI Do? University Management and Technologies of Crisis"](https://login.proxy.wexler.hunter.cuny.edu/login?qurl=https%3A%2F%2Fwww.aaup.org%2Fissue%2Fspring-2026%2Fwhat-does-ai-do)
+* Rees, ["The AI Nuisance: A Skeptical Take on a 'Revolutionary' Technology"](https://login.proxy.wexler.hunter.cuny.edu/login?qurl=https%3A%2F%2Fwww.aaup.org%2Fissue%2Fspring-2026%2Fai-nuisance)
 
 ## 12/10    People's Choice
 ### readings/in class: 
