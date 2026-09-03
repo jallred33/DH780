@@ -27,7 +27,7 @@ You’ll be graded on:
 * The quality of your research: I’ll look for evidence that you did some searches and located some primary and secondary sources that are relevant to the field and that they’re properly cited in your slides/handouts.
 * The quality of your performance: This doesn’t have to be super polished, and I expect you to be very tentative about whatever new topic you’re confronting, but I do want to see evidence that you’ve prepared enough to give us a brief, organized introduction to your topic
 
-Sign up for a slot here.
+Sign up for a slot [here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&st=r0sm5d5y&dl=0).
 
 And here is a list, subject to grow as ideas continue to occur to me, of possible topics. These are merely suggestive and are meant to be hacked/modded/ignored, depending on your interests:
 
