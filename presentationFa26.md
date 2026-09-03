@@ -1,10 +1,8 @@
 # presentation guidelines
 
-#DH780
-
 Each of you will be responsible for a brief (“tight ten-minute”) presentation on a modest research project that relates to our collective course material but deepens or extends it in some way. The intent is threefold, helping you to:
 
-* develop your research skills on a modest scale, in consulation with Library staff and myself if you wish
+* develop your research skills on a modest scale, in consultation with Library staff and myself if you wish
 * kickstart the research process for the final project, identifying an area of interest and perhaps even a topic/argument you’d like to pursue in greater detail throughout the term
 * offer a fresh perspective to classmates, practicing your presentation skills and creating some cross-pollination, learning who has expertise in which corners of the fields we’re engaging this term
 
