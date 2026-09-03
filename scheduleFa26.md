@@ -47,7 +47,7 @@
 
 	
 ### work due:
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ## 10/1 Attention and/as Labor II 
@@ -62,7 +62,7 @@
 	
 ### work due:
 * Blog Post #2: topic TBA
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 
 
                                                                                                 
@@ -73,7 +73,7 @@
 * Dyer-Witheford & de Peuter, from *Games of Empire* (2009)
 * Anable, from *Playing Feelings*
 ### work due:
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 
                                                                                                                        
 
@@ -88,7 +88,7 @@
 
 
 ### work due:
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 
 
 
@@ -104,7 +104,7 @@
 
 
 ### work due:
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 * **Blog post #3:** Explore a "gamified" or otherwise disciplined/administered online environment and describe as thickly as possible the various ways the interface disciplines users (in the Foucaultian terms of Whitmore), affords expressive or appropriative pursuit of the "good life" (Sicart), or engages in extraction of "behavioral surplus" (Zuboff). What are the pleasures and pitfalls of this modality of "gameful work/life"? Possible examples: Ed Tech platforms like Code Academy, Khan Academy, or Duolingo, shopping interfaces, or the classic "surveillance capitalist" examples of Zuboff's discourse, like Google/Pokemon Go, Meta/IG, etc.
 
 
@@ -126,7 +126,7 @@
 ### work due: 
 
 * **Blog post #4:** open prompt. Write about any of the pieces from this or last week…
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 
 
 
@@ -142,7 +142,7 @@
 * [**Milagros Miceli et al.,** ***The Data Workers' Inquiry*** **(2023–)**    ](https://data-workers.org/)  
 	
 ### work due: 
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
 * Proposal for Final Project Due
 
 
@@ -156,7 +156,7 @@
 	* optional: [Waters, "Invisible Labor and Digital Utopias"](https://hackeducation.com/2018/05/04/cuny-labor-open)
 * Meijas, ["AI as a Threat to Academic Labor"](https://www-aaup-org.proxy.wexler.hunter.cuny.edu/issue/winter-2026/artificial-intelligence-threat-academic-labor)
 ### work due:
-* Presentations: [sign up for slots here]([url](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0))
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
                                                                                                                                          
                                                                                                               
 ## 11/19  Academic Labor & the Digital II
