@@ -6,7 +6,7 @@ Office Hours: By appointment [phone or Zoom is fine]<br>
 
 Contact me: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
-Course Blog: [https://dh780fall26.commons.gc.cuny.edu](https://dh780fall26.commons.gc.cuny.edu)
+Course Blog: [https://dh780fa26.commons.gc.cuny.edu](https://dh780fa26.commons.gc.cuny.edu)
 
 Course Group: [https://commons.gc.cuny.edu/groups/dh-780-fa26/](https://commons.gc.cuny.edu/groups/dh-780-fa26/)
 
