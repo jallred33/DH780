@@ -37,7 +37,7 @@ By the end of the semester, students will
 ## **Responsibilities:** 
 
 - four blog posts of 500-800 words + informal commenting on others’ posts
-- one 10-15 min in-class presentation on a mini-research project of one's own choosing
+- one 10 min in-class presentation on a mini-research project of one's own choosing
 - final project OR topic of your own devising based on original research (ca. 15 pp. essay or equivalent negotiated with instructor)
 - regular attendance and participation in all discussions
 
@@ -62,7 +62,7 @@ Academic dishonesty is prohibited in The City University of New York. Penalties 
 AI, of course, introduces a new set of challenges for academic integrity. Here are my requirements in this area:
 
 * The use of AI interfaces like Claude, Gemini, ChatGPT, etc. to compose entire written assignments is prohibited and will result in a failing grade on the assignment and, perhaps, the course.
-* Any use of such interfaces, on one hand, in the research process (e.g., locating sources, pulling quotes or summaries of sourcees) or, on the other, for proofing or editing your original work must be documented. Any words, phrases, or sentences that originated from such interfaces must be clearly marked (e.g., highlighted and marked with the COMMENT function or rendered in a contrasting font).
+* Any use of such interfaces, on one hand, in the research process (e.g., locating sources, pulling quotes or summaries of sources) or, on the other, for proofing or editing your original work must be documented. Any words, phrases, or sentences that originated from such interfaces must be clearly marked (e.g., highlighted and marked with the COMMENT function or rendered in a contrasting font).
 * If you have questions regarding what is im/permissible, or if you would like to discuss my policy, I'm more than happy to discuss with you what is a fascinating, fast-moving, exciting, infuriating aspect of humanistic culture at present.
 
 Here is [the GCs full academic integrity policy](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-procedures/academic-integrity-policy/).
