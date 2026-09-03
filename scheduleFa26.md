@@ -154,7 +154,8 @@
 * Bousquet, from *How the University Works* (2008)
 * Watters, from *Teaching Machines* (2024)
 	* optional: [Waters, "Invisible Labor and Digital Utopias"](https://hackeducation.com/2018/05/04/cuny-labor-open)
-* Meijas, ["AI as a Threat to Academic Labor"](https://www-aaup-org.proxy.wexler.hunter.cuny.edu/issue/winter-2026/artificial-intelligence-threat-academic-labor)
+* Meijas, ["AI as a Threat to Academic Labor"](https://ezproxy.gc.cuny.edu/login?&url=https://www.proquest.com/docview/3305569546?pq-origsite=primo)
+  
 ### work due:
 * Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0)
                                                                                                                                          
