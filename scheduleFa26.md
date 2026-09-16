@@ -61,7 +61,8 @@
 * examples:
 	
 ### work due:
-* Blog Post #2: topic TBA
+* Blog Post #2: Using some of the thinkers/artists we've encountered over the past two weeks, pay attention to "attention." What is "attention"? What does it mean to "pay" attention, and why do we use economic metaphors for this practice? Who is this "I" who pays attention, and who/what else is convened in the act of attending? Free free to draw from your own experience (while relating it to stuff we read/looked at) and to examine cognate concepts, like "boredom," "overstimulation," or questions of the "neurotypical" and "neurodivergent."
+
 * Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0) Melissa and Tasha
 
 
