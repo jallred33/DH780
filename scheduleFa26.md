@@ -27,7 +27,7 @@
 * Hardt, "Affective Labor" (1999)
 * Virno, "Virtuosity and Revolution" (1996)
 * Pasquinelli, from *The Eye of the Master* (2026)
-	* optional: [video of Pasquinelli](https://www.versobooks.com/en-gb/products/735-the-eye-of-the-master) giving a gloss of his book
+	* optional: [video of Pasquinelli](https://www.versobooks.com/blogs/news/matteo-pasquinelli-on-artificial-intelligence-automation-work-and-algorithms) giving a gloss of his book
 
 
 
