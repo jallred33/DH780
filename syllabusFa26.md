@@ -1,4 +1,4 @@
-## ENGL 780 <br>Academic Labor and the Digital, Fall 2026
+## ENGL 780 <br>Labor and the Digital, Fall 2026
 
 Instructor: Jeff Allred<br>
 Class Meetings: Th 6:30-8:30, GradCenter 5417<br>
