@@ -41,7 +41,7 @@
 * Zuboff, "Big Other: Surveillance Capitalism and the Prospects of an Information Civilization" (Journal of Information Technology 30.1, pp. 75–89)
 	* optional further reading: Zuboff *Age of Surveillance Capitalism*, Preface and Ch. 3
 * Terranova, "Free Labor: Producing Culture for the Digital Economy" (1999) 
-* *Black Mirror* S2e2: "Fifteen Million Merits" (via Netflix or a la carte via Google/Apple/Amazon or ... you're resourceful people)
+* *Black Mirror* S1e2: "Fifteen Million Merits" (via Netflix or a la carte via Google/Apple/Amazon or ... you're resourceful people)
 	* optional: *Severance* S1e1 (see above)
 
 
