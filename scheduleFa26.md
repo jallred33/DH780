@@ -54,7 +54,7 @@
 ### readings/in class:
 
 * Friends of Attention site: [12 Theses on Attention](https://friendsofattention.org/twelve-theses/) and [Manifesto for the Freedom of Attention](https://friendsofattention.org/manifesto/)
-* Sousanis, from *Unflattening* (read 1-60, and more if you can't put it down)
+* Sousanis, from *Unflattening* (read 1-67, and more if you can't put it down)
 * from Odell, *How to Do Nothing*
 * from Crary, *24/7*
 
