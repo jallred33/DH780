@@ -100,7 +100,7 @@
 * examples: 
 	* Pippin Barr, [various "work" themed games](https://pippinbarr.com/ideas/work/)
 	* Molleindustria, [Every Day the Same Dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html), [The McDonald's Game](http://www.mcvideogame.com/)
-	* Ian Bogost, [Cow Clicker]([https://bogost.com/games/cow_clicker/](https://bogost.com/games/cow_clicker/))
+	* Ian Bogost, [Cow Clicker](https://bogost.com/games/cow_clicker/](https://bogost.com/games/cow_clicker/)
 
 
 ### work due:
