@@ -99,7 +99,7 @@
 
 * examples: 
 	* Pippin Barr, [various "work" themed games](https://pippinbarr.com/ideas/work/)
-	* Molleindustria, [Every Day the Same Dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html), [The McDonald's Game](http://www.mcvideogame.com/)
+	* Molleindustria, [Every Day the Same Dream](https://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html), [The McDonald's Game](http://www.mcvideogame.com/) N.B. "Every Day..." could be rather intense for some players/viewers, so be forewarned.
 	* Ian Bogost, [Cow Clicker](https://bogost.com/games/cow_clicker)
 
 
