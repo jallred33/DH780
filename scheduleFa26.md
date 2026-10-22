@@ -125,7 +125,6 @@
 
 ### work due: 
 
-* **Blog post #4:** open prompt. Write about any of the pieces from this or last week…
 * Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0) Ignacio and Boryana
 
 
@@ -158,6 +157,7 @@
   
 ### work due:
 * Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0) Kelly and Tulay
+* **Blog post #4:** open prompt. Write about any of the pieces from this or last week…
                                                                                                                                          
                                                                                                               
 ## 11/19  Academic Labor & the Digital II
