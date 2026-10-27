@@ -125,7 +125,7 @@
 
 ### work due: 
 
-* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0) Ignacio and Boryana
+* Presentations: [sign up for slots here](https://www.dropbox.com/scl/fi/sjif5r2zoz3kcx91wsexa/signup-for-presentation.paper?rlkey=odz0z7tr2vflreech2t1sedx5&dl=0) Ignacio
 
 
 
@@ -168,6 +168,7 @@
 
 ### work due:
 * **optional** submission of draft or intro or piece of final project due
+* presentation: Boryana
 
 ## 12/3 Academic Labor & the Digital III (with special guest Roxanne Shirazi)
 ### readings/in class:
