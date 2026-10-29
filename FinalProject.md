@@ -22,7 +22,7 @@ But I want to give some sense of the bar you must clear and some sense of how I 
 	* **reflectiveness**: Is there some kind of reflective writing that contextualizes the object for its audience (or analyzes it for my benefit)? Do the authors (or author) show an awareness of how the object relates to other similar efforts in circulation, or to the long history of reading we’ve examined in the course?
 
 ## DEADLINES:
-* proposal due 11/12 on blog:
+* proposal due 11/5 on blog:
 	* max 1000 words
 	* careful description of a topic with a clearly defined objective or research question
 	* brief mention of a few relevant sources you've found, or, for some projects, relevant examples of other sites or digital objects
