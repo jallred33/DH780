@@ -167,7 +167,6 @@
 * Hogan, ["Artificial Negligence"](https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/artificial-negligence)
 
 ### work due:
-* **optional** submission of draft or intro or piece of final project due
 * presentation: Boryana
 
 ## 12/3 Academic Labor & the Digital III (with special guest Roxanne Shirazi)
@@ -175,6 +174,9 @@
 * Emily Drabinski, Aliqae Geraci, and Roxanne Shirazi, "Introduction" to special edition of *Library Trends* on "Labor in Academic Libraries”
 * Green, ["What Does AI Do? University Management and Technologies of Crisis"](https://login.proxy.wexler.hunter.cuny.edu/login?qurl=https%3A%2F%2Fwww.aaup.org%2Fissue%2Fspring-2026%2Fwhat-does-ai-do)
 * Rees, ["The AI Nuisance: A Skeptical Take on a 'Revolutionary' Technology"](https://login.proxy.wexler.hunter.cuny.edu/login?qurl=https%3A%2F%2Fwww.aaup.org%2Fissue%2Fspring-2026%2Fai-nuisance)
+
+### work due:
+* **optional** submission of draft or intro or piece of final project due
 
 ## 12/10    Wrapping up
 ### work due:
