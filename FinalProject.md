@@ -35,4 +35,4 @@ final due Monday, 12/14 via email.
 
 ## OTHER STUFF
 
-* You are strongly encouraged to use the required presentation as a springboard for the final project. In the [presentation assignment](https://dh780fa26.commons.gc.cuny.edu/presentation/), you'll find a running list of research topics: feel free to choose one and run with it, or use it as food for thought as you devise your own topic. 
+* You are strongly encouraged to use the required presentation as a springboard for the final project. In the [presentation assignment](https://dh780fa26.commons.gc.cuny.edu/presentation/), you'll find a running list of research topics at the end: feel free to choose one and run with it, or use it as food for thought as you devise your own topic. 
