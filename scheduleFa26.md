@@ -167,7 +167,7 @@
 * Hogan, ["Artificial Negligence"](https://hedgehogreview.com/issues/the-fading-promise-of-higher-education/articles/artificial-negligence)
 
 ### work due:
-* presentation: Boryana
+* presentation: Boryana and Ignacio
 
 ## 12/3 Academic Labor & the Digital III (with special guest Roxanne Shirazi)
 ### readings/in class:
