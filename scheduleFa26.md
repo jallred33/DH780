@@ -172,6 +172,7 @@
 ## 12/3 Academic Labor & the Digital III (with special guest Roxanne Shirazi)
 ### readings/in class:
 * Emily Drabinski, Aliqae Geraci, and Roxanne Shirazi, "Introduction" to special edition of *Library Trends* on "Labor in Academic Libraries”
+	* recommended/optional: the other essays [in that volume](https://www.proquest.com/publication/34778?OpenUrlRefId=info:xri/sid:primo&accountid=7287&parentSessionId=7e%2B8YSYCMrK%2B5P0yy2ClWrUmKc2HsHYdHiCcIQFhft4%3D&parentSessionId=PmlGIqFZRJzPt%2BRHosQn3%2B1vfaJBzEXdmJ15%2FfnKP1A%3D&decadeSelected=2020%20-%202029&yearSelected=2019&monthSelected=10&issueNameSelected=), especially Nicholson and Popowich.
 * Green, ["What Does AI Do? University Management and Technologies of Crisis"](https://login.proxy.wexler.hunter.cuny.edu/login?qurl=https%3A%2F%2Fwww.aaup.org%2Fissue%2Fspring-2026%2Fwhat-does-ai-do)
 * Rees, ["The AI Nuisance: A Skeptical Take on a 'Revolutionary' Technology"](https://login.proxy.wexler.hunter.cuny.edu/login?qurl=https%3A%2F%2Fwww.aaup.org%2Fissue%2Fspring-2026%2Fai-nuisance)
 
